@@ -2,9 +2,9 @@
 
 ## 👨‍🏫 Project Coordinator
 
-**Assistant Professor:** Mr. Omkar Mahanandia
-**Department:** CSE-APEX
-**Institution:** CGC-Jhanjeri
+**Assistant Professor:** [Mr. Omkar Mahanandia]
+**Department:** [CSE-APEX]
+**Institution:** [CGC-Jhanjeri]
 
 ---
 
@@ -162,5 +162,5 @@ Each project must produce:
 
 ## 📬 Contact
 
-Instructor: MR. OMKAR MAHANANDIA
-Email: omkar.j5183@cgcuniversity.in
+Instructor: [MR. OMKAR MAHANANDIA]
+Email: [omkar.j5183@cgcuniversity.in]
