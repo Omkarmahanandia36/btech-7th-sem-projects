@@ -162,5 +162,5 @@ Each project must produce:
 
 ## 📬 Contact
 
-Instructor: [Your Name]
-Email: [Your Email]
+Instructor: MR. OMKAR MAHANANDIA
+Email: omkar.j5183@cgcuniversity.in
