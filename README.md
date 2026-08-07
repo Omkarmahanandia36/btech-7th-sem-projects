@@ -1,10 +1,10 @@
-# 🎓 7th Semester Minor Project Repository (2026)
+# 🎓 7th Semester Major Project Repository (2026)
 
 ## 👨‍🏫 Project Coordinator
 
-**Assistant Professor:** [Mr. Omkar Mahanandia]
-**Department:** [CSE-APEX]
-**Institution:** [CGC-Jhanjeri]
+**Assistant Professor:** Omkar Mahanandia
+**Department:** CSE-APEX
+**Institution:** CGC Jhanjeri
 
 ---
 
@@ -21,22 +21,115 @@ This repository is designed to guide 7th semester students in developing **indus
 
 > ❝ Don’t build projects for marks. Build solutions for real-world problems. ❞
 
-Students are expected to:
+---
 
-* Identify real-world problems
-* Develop innovative and practical solutions
-* Follow structured development practices
-* Maintain proper documentation and version control
+## 💡 Approved Project Topics (AI-Based)
+
+Below is the list of **approved project topics**. Each group must select **ONE project**.
 
 ---
 
-## 👥 Project Groups
+### 🧠 NLP & Chatbot Projects
 
-| Group No. | Project Title | Members | Domain        |
-| --------- | ------------- | ------- | ------------- |
-| Group 1   | TBD           | TBD     | AI/ML         |
-| Group 2   | TBD           | TBD     | Web           |
-| Group 3   | TBD           | TBD     | Cybersecurity |
+| S.No | Project Title                      | Technique           |
+| ---- | ---------------------------------- | ------------------- |
+| 1    | AI-Powered Resume Screening System | NLP, Classification |
+| 3    | Student Grievance Chatbot          | Transformer NLP     |
+| 5    | Plagiarism Detection Tool          | TF-IDF, Cosine      |
+| 11   | Sentiment Analysis Tool            | BERT                |
+| 19   | Spam & Phishing Detector           | NLP, Naive Bayes    |
+| 42   | Document Summarizer                | NLP                 |
+| 47   | Legal Document Analyzer            | NER                 |
+| 60   | Meeting Minutes Generator          | Speech + NLP        |
+| 72   | Mental Health Chatbot              | NLP                 |
+| 80   | Banking FAQ Chatbot                | NLP                 |
+| 88   | College Admission Chatbot          | NLP                 |
+| 96   | Restaurant Chatbot                 | NLP                 |
+
+---
+
+### 👁️ Computer Vision Projects
+
+| S.No | Project Title                       | Technique        |
+| ---- | ----------------------------------- | ---------------- |
+| 2    | Smart Attendance (Face Recognition) | CNN              |
+| 6    | Traffic Management System           | YOLO             |
+| 14   | Deepfake Detection                  | CNN              |
+| 22   | Handwritten Text Recognition        | OCR              |
+| 24   | Sign Language Translator            | CNN              |
+| 30   | Smart Surveillance                  | CV               |
+| 35   | Face Mask Detection                 | CNN              |
+| 40   | Plant Disease Detection             | CNN              |
+| 43   | Drowsiness Detection                | CV               |
+| 46   | Parking Detection                   | Object Detection |
+| 54   | Retail Inventory Detection          | YOLO             |
+| 83   | Number Plate Recognition            | OCR              |
+
+---
+
+### 📊 Data Science & Prediction Projects
+
+| S.No | Project Title                 | Technique     |
+| ---- | ----------------------------- | ------------- |
+| 4    | Predictive Maintenance        | Time Series   |
+| 26   | Customer Churn Prediction     | XGBoost       |
+| 32   | Stock Market Prediction       | LSTM          |
+| 48   | Employee Attrition Prediction | ML            |
+| 51   | Loan Default Prediction       | Random Forest |
+| 64   | Website Traffic Predictor     | Time Series   |
+| 71   | Real Estate Price Prediction  | Regression    |
+| 91   | Weather Prediction            | Time Series   |
+
+---
+
+### 🧠 Recommendation Systems
+
+| S.No | Project Title               | Technique               |
+| ---- | --------------------------- | ----------------------- |
+| 15   | E-Learning Recommendation   | Collaborative Filtering |
+| 39   | News Recommendation         | NLP + CF                |
+| 61   | Diet & Fitness Planner      | Recommendation          |
+| 68   | Library Recommendation      | CF                      |
+| 77   | Ad Recommendation System    | Deep Learning           |
+| 100  | Coding Practice Recommender | Recommendation          |
+
+---
+
+### 🔐 Cybersecurity Projects
+
+| S.No | Project Title               | Technique         |
+| ---- | --------------------------- | ----------------- |
+| 12   | Cyber Threat Detection      | ML                |
+| 57   | Code Plagiarism Detector    | AST + ML          |
+| 59   | Credit Card Fraud Detection | Anomaly Detection |
+| 69   | Network Intrusion Detection | Deep Learning     |
+| 85   | Code Vulnerability Scanner  | ML                |
+| 93   | Fake Job Posting Detector   | NLP               |
+
+---
+
+### 🎯 Advanced / Innovation Projects
+
+| S.No | Project Title                | Technique              |
+| ---- | ---------------------------- | ---------------------- |
+| 18   | Blockchain + AI Supply Chain | ML + Blockchain        |
+| 25   | Personalized Study Planner   | Reinforcement Learning |
+| 33   | Code Autocomplete Tool       | Transformer            |
+| 65   | Virtual Try-On System        | GAN                    |
+| 79   | Voice Cloning Detection      | Audio DL               |
+| 97   | Video Interview Analyzer     | CV + NLP               |
+
+---
+
+## ⚠️ Project Selection Rules
+
+* Each group must select **only one project**
+* No duplicate projects allowed
+* Project must include:
+
+  * Implementation
+  * Results
+  * Documentation
 
 ---
 
@@ -44,17 +137,9 @@ Students are expected to:
 
 ```
 7th-sem-major-projects-2026/
-│
-├── Group1_ProjectName/
-│   ├── src/
-│   ├── data/
-│   ├── docs/
-│   ├── models/
-│   └── README.md
-│
-├── Group2_ProjectName/
-├── Group3_ProjectName/
-│
+├── Group1_Project/
+├── Group2_Project/
+├── Group3_Project/
 ├── guidelines.md
 ├── CONTRIBUTING.md
 └── README.md
@@ -62,95 +147,35 @@ Students are expected to:
 
 ---
 
-## 🔁 Development Workflow (MANDATORY)
+## 📅 Timeline (2 Months)
 
-### 1. Clone Repository
-
-```
-git clone https://github.com/<your-username>/7th-sem-major-projects-2026.git
-cd 7th-sem-major-projects-2026
-```
-
-### 2. Create Branch
-
-```
-git checkout -b groupX-dev
-```
-
-### 3. Commit Changes
-
-```
-git add .
-git commit -m "[Feature] Added login system"
-```
-
-### 4. Push Code
-
-```
-git push origin groupX-dev
-```
-
-### 5. Create Pull Request
-
-* Go to GitHub
-* Click "Compare & Pull Request"
-* Add description
+| Week | Work               |
+| ---- | ------------------ |
+| 1    | Topic Finalization |
+| 2    | Research           |
+| 3-4  | Development        |
+| 5-6  | Advanced Features  |
+| 7    | Documentation      |
+| 8    | Final Submission   |
 
 ---
 
-## 📝 Commit Message Guidelines
+## 📊 Evaluation
 
-```
-[Feature] Added new feature
-[Fix] Fixed bug
-[Update] Improved code
-[Docs] Updated documentation
-```
-
----
-
-## 📅 Project Timeline (2 Months)
-
-| Week | Work                |
-| ---- | ------------------- |
-| 1    | Problem Selection   |
-| 2    | Research + Planning |
-| 3-4  | Development         |
-| 5-6  | Advanced Features   |
-| 7    | Documentation       |
-| 8    | Final Submission    |
-
----
-
-## 📊 Weekly Requirements
-
-* 3–5 commits per week
-* 1 Pull Request per week
-* Update README with progress
-
----
-
-## 📄 Output Requirement
-
-Each project must produce:
-
-### Research Paper OR Patent
+* Innovation: 30%
+* Implementation: 25%
+* Results: 20%
+* Documentation: 15%
+* Presentation: 10%
 
 ---
 
 ## ⚠️ Rules
 
 * ❌ No copying
-
+* ❌ No late development
 * ❌ No direct push to main
-
-* ❌ No last week coding
-
-* ✅ Weekly progress
-
-* ✅ Clean code
-
-* ✅ Documentation
+* ✅ Weekly updates required
 
 ---
 
@@ -162,5 +187,7 @@ Each project must produce:
 
 ## 📬 Contact
 
-Instructor: [MR. OMKAR MAHANANDIA]
-Email: [omkar.j5183@cgcuniversity.in]
+Instructor: MR. OMKAR MAHANANDIA
+Email: omkar.j5183@cgcuniversity.in
+
+---
