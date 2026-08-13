@@ -19,7 +19,7 @@ This is your gateway to innovative AI/ML projects, research publications, and in
 
 ### Complete Project Listing
 
-| S.No. | Project Title | Domain / Tech Stack | Semester | Student Name | Roll No. |
+| S.No. | Project Title | Domain / Tech Stack | Semester | Team leader | Roll No. |
 |:----:|---|---|:---:|---|---|
 | 2 | **Smart Attendance System Using Facial Recognition** | CNN, Face Recognition | 7th | Ajay Kumar | 2420643 |
 | 12 | **AI-Based Cybersecurity Threat Detection System** | Anomaly Detection, ML | 7th | Shivansh Yadav | 2330654 |
@@ -125,11 +125,11 @@ git commit -m "Initial commit: Project setup"
 
 ## 📞 Quick Contact & Support
 
-| Need Help? | Contact | Response Time |
+| Need Help? | Contact |
 |---|---|---|
-| **Project Clarifications** | Mr. Omkar Mahanandia | 24-48 hours |
-| **Technical Issues** | Mr. Amit Sandhu | 24-48 hours |
-| **Submission Problems** | CSE-APEX Office | 24 hours |
+| **Project Clarifications** | Mr. Omkar Mahanandia |
+| **Technical Issues** | Mr. Amit Sandhu | 
+| **Submission Problems** | CSE-APEX staff room | 
 
 ---
 
@@ -146,8 +146,8 @@ git commit -m "Initial commit: Project setup"
 
 **Last Updated:** August 2026  
 **Department:** Computer Science & Engineering (CSE-APEX)  
-**Institution:** Chandigarh Group of Colleges, Jhajjar
+**Institution:** Chandigarh Group of Colleges, Mohali
 
 ---
 
-> *"Innovation happens when preparation meets opportunity." – Make your mark with this Major Project!* 🌟
+> *"Innovation happens when preparation meets opportunity." – Make your mark with this Minor Project!* 🌟
