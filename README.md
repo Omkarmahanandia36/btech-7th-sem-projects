@@ -4,6 +4,8 @@ Welcome to the official repository for the **B.Tech 7th Semester Major Projects 
 
 This is your gateway to innovative AI/ML projects, research publications, and industry-ready implementations!
 
+> 📘 **Standard Operating Procedure (SOP)**: All groups are required to follow the official [**Major Project Code Submission & Git Workflow SOP (v1.0)**](SOP.md) for repository setup, branching strategy, commit standards, and weekly evaluations.
+
 ---
 
 ## 👥 Project Coordinators & Instructors
