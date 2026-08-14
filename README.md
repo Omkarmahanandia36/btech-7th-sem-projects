@@ -1,6 +1,6 @@
 # 🚀 B.Tech 7th Semester Major Projects (2026)
 
-Welcome to the official repository for the **B.Tech 7th Semester Major Projects (2026)** at **CGC Jhajjar, Computer Science & Engineering (CSE-APEX)**.
+Welcome to the official repository for the **B.Tech 7th Semester Major Projects (2026)** at **CGC Mohali, Computer Science & Engineering (CSE-APEX)**.
 
 This is your gateway to innovative AI/ML projects, research publications, and industry-ready implementations!
 
@@ -13,7 +13,7 @@ This is your gateway to innovative AI/ML projects, research publications, and in
 | S.No. | Instructor Name | Designation | Department | Contact Email |
 |:----:|---|---|---|---|
 | 1 | **Mr. Omkar Mahanandia** | Assistant Professor | CSE-APEX | omkar.j5183@cgcuniversity.in |
-| 2 | **Mr. Amit Sandhu** | Assistant Professor | CSE-APEX | amit.sandhu@cgcuniversity.in |
+| 2 | **Mr. Amit Sandhu** | Assistant Professor | CSE-APEX | amit.j3167@cgcuniversity.in |
 
 ---
 
