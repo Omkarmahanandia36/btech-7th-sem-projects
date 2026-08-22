@@ -1,0 +1,28 @@
+# Environment / secrets
+.env
+*.env
+!.env.example
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+env/
+
+# Node / frontend
+node_modules/
+dist/
+build/
+
+# User uploads
+backend/uploads/
+
+# OS junk
+.DS_Store
+Thumbs.db
